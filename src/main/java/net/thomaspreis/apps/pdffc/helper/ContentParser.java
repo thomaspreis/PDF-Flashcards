@@ -5,6 +5,7 @@ import java.util.List;
 
 import org.apache.log4j.Logger;
 
+import net.thomaspreis.apps.pdffc.domain.PDFFCEnum;
 import net.thomaspreis.apps.pdffc.model.FlashcardModel;
 
 public class ContentParser {
@@ -20,8 +21,12 @@ public class ContentParser {
 				if (null == parsedList) {
 					parsedList = new ArrayList<>();
 				}
-				FlashcardModel fc = new FlashcardModel(content);
-				parsedList.add(fc);
+				if (!content.startsWith(PDFFCEnum.PHRASE_IGNORE.getValue())) {
+					FlashcardModel fc = new FlashcardModel(content);
+					parsedList.add(fc);
+				} else {
+					logger.info("Ignoring sentence: " + content);
+				}
 			}
 			logger.info("Sentences to be generated: " + parsedList.size());
 		}

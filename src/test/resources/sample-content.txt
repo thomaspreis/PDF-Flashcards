@@ -28,3 +28,26 @@ Fernanda hat eine Fahrrad *gekauft*;Fernanda comprou uma bicicleta
 Wir *brauchen* eine Bett kaufen;Nós precisamos comprar uma cama
 Sie will Journalistin *werden*;Ela quer ser jornalista
 Gestern kam ich spät nach hause;Ontem eu cheguei em casa tarde
+Darf ich mit Kreditkarte *bezahlen*?;Posso pagar com cartão de crédito?
+Darf ich mit Debitkarte *bezahlen*?;Posso pagar com cartão de débito?
+Darf ich mit Bargeld *bezahlen*?;Posso pagar em dinheiro?
+Einen Tisch für [zwei/drei/vier], bitte.;Uma mesa para [dois/três/quatro] por favor.
+Ich habe einen Tisch *reserviert*;Eu tenho uma mesa reservada
+Kann ich bitte die [Speisekarte/Weinkarte] sehen?;Posso por favor ver o [cardábio/carta de vinhos]?
+Was ist der Unterschied zwischen X und Y?;Qual a diferença entre X e Y?
+Mit laktosefreier Milch, bitte.;Com leite sem lactose por favor.
+Wo ist der [Eingang/Ausgang]?;Onde é a [entrada/saída]?
+Wo ist die Bushaltestelle?;Onde fica o ponto de ônibus?
+Können Sie mir das auf der Karte zeigen?;Você pode me mostrar no mapa?
+Ich verstehe nicht.;Eu não entendo
+Können Sie das bitte wiederholen?;Você poderia repetir por favor?
+Ich spreche nur ein wenig Deutsch.;Eu falo um pouco de Alemão
+Können Sie das übersetzen?;Você pode traduzir por favor?
+Ich brauche Hilfe;Eu preciso de ajuda
+Ich brauche Auskunft;Eu preciso de uma informação
+Wohin gehen Sie?;Onde você está indo?
+Ich weiß nicht.;Eu não sei
+Wo sind die Toiletten?;Onde fica o banheiro?
+Können Sie bitte langsamer sprechen?;Você pode falar mais devagar por favor?
+Wer *kocht* heute?;Quem vai cozinhar hoje?
+Morgen werde ich wieder arbeiten.;Amanhã eu volto ao trabalho.

@@ -34,8 +34,8 @@ public class FlashcardGenerator {
 	ContentReader contentReader = new ContentReader();
 	ContentParser contentParser = new ContentParser();
 
-	static Font boldFont = new Font(Font.FontFamily.TIMES_ROMAN, 10, Font.BOLD);
-	static Font normalFont = new Font(Font.FontFamily.TIMES_ROMAN, 10, Font.NORMAL);
+	static Font boldFont = new Font(Font.FontFamily.TIMES_ROMAN, 16, Font.BOLD);
+	static Font normalFont = new Font(Font.FontFamily.TIMES_ROMAN, 16, Font.NORMAL);
 
 	public void generate(String inputFilePath, String outputFilePath) {
 		long t0 = System.currentTimeMillis();
